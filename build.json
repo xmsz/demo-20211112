@@ -1,0 +1,9 @@
+{
+  "vite": true,
+  "plugins": [],
+  "postcssOptions": {
+    "plugins": {
+      "postcss-plugin-rpx2vw": {}
+    }
+  }
+}
